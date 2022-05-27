@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675322998122",
+    "project_id": "sprinkler-sys",
+    "storage_bucket": "sprinkler-sys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675322998122:android:d67c6ed8f2ae3ffad14913",
+        "android_client_info": {
+          "package_name": "com.o6u.sprinkler_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675322998122-184bmbls05jo2r0ts79q5mbl6on10sr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAutFPBKkJm6-uZ4e2nJD_QJYFIBsuidoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675322998122-184bmbls05jo2r0ts79q5mbl6on10sr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
